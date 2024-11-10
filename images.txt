@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 jysky007/cups:v1
-nyanmisaka/jellyfin:latest-rockchip
+jellyfin/jellyfin:2024110405-arm64
